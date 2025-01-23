@@ -1,4 +1,6 @@
 # Movie Recommendation System
+![image](https://github.com/user-attachments/assets/239c39d4-f789-4600-a62a-bf5bb28c6820)
+
 
 This project is a simple **Movie Recommendation System** that suggests movies based on user input. The system uses a similarity matrix generated from the movie metadata dataset and fetches movie posters using the TMDB API.
 
@@ -98,7 +100,4 @@ Ensure you have Python installed on your system. Install the required libraries 
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
